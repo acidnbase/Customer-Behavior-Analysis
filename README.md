@@ -34,5 +34,11 @@ Revenue Impact: Assess how customer behavior impacts revenue and identify opport
  6. Conversion Funnel Analysis: Analyze the customer journey and identify bottlenecks.
  7. Insights and Recommendations: Derive actionable insights from the analysis.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
+# Results
+
+Key Findings
+ 1. Customer Demographics
+ 2. Device Usage
+ 3. Behavior Patterns
+ 4. Customer Segmentation
+ 5. Conversion Funnel
